@@ -1,5 +1,5 @@
 ---
-title: PomodoroApp
+title: PomodoroApp - the simplest OSX app to let you to have one click toggle between count down timing sessions
 layout: default
 ---
 
@@ -12,8 +12,6 @@ https://www.google.rs/search?q=tomato+icon&tbm=isch&tbs=simg:CAQSYgmi7t3Z317r7Rp
 {% capture Contact %}{% include outbound.html href="mailto:pomodoroapp@jamztang.com" innerHTML="contact me" %}{% endcapture %}
 
 # PomodoroApp
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 <img src="/images/pomodoroapp/icon.png" />
 
@@ -30,11 +28,11 @@ Since this is a one-day pet project for an iOS developer, I didn't manage to do 
 If you like this app, please help spread this project!
 
 {% capture facebooklike %}<iframe
-src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fjamztang.com%2Fpomodoroapp&amp;width=450&amp;height=46&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=true&amp;appId=514720901947348"
+src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Freference%2Fplugins%2Flike&amp;width=450&amp;height=35&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;send=true&amp;appId=232714990200147"
 scrolling="no" frameborder="0" style="border:none; overflow:hidden;
-width:450px; height:46px;" allowTransparency="true"></iframe>{% endcapture %}
+width:450px; height:35px;" allowTransparency="true"></iframe>{% endcapture %} 
 
-{% capture tweetbutton %}<a href="https://twitter.com/share" class="twitter-share-button" data-text="PomorodoApp - The simplest app for practicing pomodoro technique." data-via="PomodoroApp">Tweet</a>{% endcapture %}
+{% capture tweetbutton %}<a href="https://twitter.com/share" class="twitter-share-button" data-via="PomodoroApp">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>{% endcapture %} 
 
 {{ tweetbutton }}{{ facebooklike }}
 
