@@ -1,5 +1,5 @@
 ---
-title: PomodoroApp - the simplest OSX app to let you to have one click toggle between count down timing sessions
+title: PomodoroApp - the simplest OSX app for your pomodoro timing sessions 
 layout: default
 ogimage: /images/pomodoroapp/icon.png
 ---
