@@ -29,7 +29,7 @@ Since this is a one-day pet project for an iOS developer, I didn't manage to do 
 
 If you like this app, please help spread this project!
 
-{% capture facebooklike %}<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fjamztang.com%2Fpomodoroapp&amp;width=450&amp;height=35&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;send=true&amp;appId=232714990200147" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>{% endcapture %} 
+{% capture facebooklike %}<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fjamztang.com%2Fpomodoroapp&amp;width=450&amp;height=35&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;send=true&amp;appId=514720901947348" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>{% endcapture %} 
 
 {% capture tweetbutton %}<a href="https://twitter.com/share" class="twitter-share-button" data-via="PomodoroApp">Tweet</a> {% endcapture %} 
 
