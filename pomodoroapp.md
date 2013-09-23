@@ -13,6 +13,8 @@ https://www.google.rs/search?q=tomato+icon&tbm=isch&tbs=simg:CAQSYgmi7t3Z317r7Rp
 
 # PomodoroApp
 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 <img src="/images/pomodoroapp/icon.png" />
 
 _PomodoroApp_ is the simplest OSX app to let you to have one click toggle between count down timing sessions. The timer will enter debit mode and continues to count after a session ends.
@@ -32,7 +34,7 @@ src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fdevelopers.facebook.c
 scrolling="no" frameborder="0" style="border:none; overflow:hidden;
 width:450px; height:35px;" allowTransparency="true"></iframe>{% endcapture %} 
 
-{% capture tweetbutton %}<a href="https://twitter.com/share" class="twitter-share-button" data-via="PomodoroApp">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>{% endcapture %} 
+{% capture tweetbutton %}<a href="https://twitter.com/share" class="twitter-share-button" data-via="PomodoroApp">Tweet</a> {% endcapture %} 
 
 {{ tweetbutton }}{{ facebooklike }}
 
