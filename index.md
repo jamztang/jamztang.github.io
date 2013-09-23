@@ -3,16 +3,14 @@ title: jamztang.com
 layout: default
 ---
 
-I'm Jamz Tang, an iOS & UX Engineer. I recently quit my full-time job and started my freelance working career.
+Hi, I'm Jamz Tang, an iOS & UX Engineer. I recently quit my full-time job and started my freelance working life style.
 
-Since 2013 I've been practicing [GTD][1] and [Pomodoro technique][2]. I couldn't find a simple enough mac app so I wrote my own [PomodoroApp][3], and implemented my own todo system using Evernote.
+Since 2013 I came across GTD and Pomodoro Techinque. I derived my own Evernote system from thesecretweapon.org, then I noticed I still missed a real simple count down app on the mac. I couldn't find one suites me on the AppStore so I decided to implement my own [PomodoroApp][3].
 
-I'm working towards a free-er life, reading personal development and travel-the-world books.
+I enjoy a free-er life and working modal, targeted to read one book per week, and looking forward to travel around the world in the next year.
 
 I now use ~~@mystcolor~~ @jamztang as my main online identity.
 
-[1]:http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
-[2]:http://pomodorotechnique.com/
 [3]:pomodoroapp
 [4]:http://www.urbandictionary.com/define.php?term=jamz
 
