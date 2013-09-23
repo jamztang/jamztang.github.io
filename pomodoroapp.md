@@ -4,6 +4,8 @@ layout: default
 ogimage: /images/pomodoroapp/icon.png
 ---
 
+{{ page.ogimage }}
+
 {% capture pomodorotechnique %}{% include outbound.html href="http://pomodorotechnique.com" innerHTML="Pomodoro technique" %}{% endcapture %}
 {% capture iTomato %}{% include outbound.html href="https://itunes.apple.com/hk/app/itomato/id368353070?mt=8" innerHTML="iTomato" %}{% endcapture %}
 {% capture Download %}{% include outbound.html href="https://itunes.apple.com/hk/app/pomodoroapp/id705103149?mt=12" innerHTML="<img src='/images/itunes/Mac_App_Store/Download_on_the_Mac_App_Store_Badge_US-UK_165x40_0824.png' />" %}{% endcapture %}
