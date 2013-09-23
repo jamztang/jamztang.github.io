@@ -1,6 +1,7 @@
 ---
 title: PomodoroApp - the simplest OSX app to let you to have one click toggle between count down timing sessions
 layout: default
+ogimage: /images/pomodoroapp/icon.png
 ---
 
 {% capture pomodorotechnique %}{% include outbound.html href="http://pomodorotechnique.com" innerHTML="Pomodoro technique" %}{% endcapture %}
