@@ -1,4 +1,5 @@
 ---
+title: jamztang.com
 layout: default
 ---
 
@@ -12,6 +13,6 @@ I now use ~~@mystcolor~~ @jamztang as my main online identity.
 
 [1]:http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280
 [2]:http://pomodorotechnique.com/
-[3]:https://itunes.apple.com/hk/app/pomodoroapp/id705103149?mt=12
+[3]:pomodoroapp
 [4]:http://www.urbandictionary.com/define.php?term=jamz
 

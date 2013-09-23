@@ -5,12 +5,9 @@ layout: default
 
 # PomodoroApp
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="PomorodoApp - The simplest app for practicing pomodoro technique." data-via="PomodoroApp">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fjamztang.com%2Fpomodoroapp&amp;width=450&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false&amp;appId=514720901947348" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
-
-![PomodoroApp](/images/pomodoroapp/icon.png)
+<img src="/images/pomodoroapp/icon.png" />
 
 _PomodoroApp_ is the simplest OSX app to quickly toggle between time sections. The timer will change to debit mode and continues to count after the session ends.
 
@@ -20,6 +17,13 @@ Since it is a one day pet project, I didn't manage to do my own icon. [This][3] 
 
 [![Download](/images/itunes/Mac_App_Store/Download_on_the_Mac_App_Store_Badge_US-UK_165x40_0824.png)][Download]
 
+
+If you like this app too, you can help with sharing this page!
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="PomorodoApp - The simplest app for practicing pomodoro technique." data-via="PomodoroApp">Tweet</a> <iframe
+src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fjamztang.com%2Fpomomdoroapp%2F&amp;width=450&amp;height=46&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;send=true&amp;appId=514720901947348"
+scrolling="no" frameborder="0" style="border:none; overflow:hidden;
+width:450px; height:46px;" allowTransparency="true"></iframe>
 
 [Download]:https://itunes.apple.com/hk/app/pomodoroapp/id705103149?mt=12
 
