@@ -12,8 +12,6 @@ https://www.google.rs/search?q=tomato+icon&tbm=isch&tbs=simg:CAQSYgmi7t3Z317r7Rp
 {% capture This %}{% include outbound.html href=GoogleResult innerHTML="This" %}{% endcapture %}
 {% capture Contact %}{% include outbound.html href="mailto:pomodoroapp@jamztang.com" innerHTML="contact me" %}{% endcapture %}
 
-# PomodoroApp
-
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 <img src="/images/pomodoroapp/icon.png" />
