@@ -67,6 +67,8 @@ this enjoyable and interesting read.
 
 If you think this is great, let me know :)
 
+> Last update 31/10/2013
+
 {% comment %}
 > Updated 2013-10-10 19:20
 
