@@ -1,7 +1,7 @@
 ---
 title: My thoughts on iOS development
 layout: default
-permalink: my-thoughts-on-ios-development
+permalink: development
 ---
 
 I've been developing iOS apps for almost 4 years. In my first company, I'm very
