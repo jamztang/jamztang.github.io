@@ -80,7 +80,7 @@ The new [ioscodesnippet.com][1] goes live!
 {% endcomment %}
 
 [1]:http://ioscodesnippet.com
-[3]:pomodoroapp
+[3]:/pomodoroapp
 [4]:http://www.urbandictionary.com/define.php?term=jamz
 [5]:https://medium.com/p/3db44088db70
 
